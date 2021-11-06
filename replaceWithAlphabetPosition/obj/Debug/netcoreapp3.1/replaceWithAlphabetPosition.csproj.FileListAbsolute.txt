@@ -1,0 +1,14 @@
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\replaceWithAlphabetPosition.exe
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\replaceWithAlphabetPosition.deps.json
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\replaceWithAlphabetPosition.runtimeconfig.json
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\replaceWithAlphabetPosition.runtimeconfig.dev.json
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\replaceWithAlphabetPosition.dll
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\bin\Debug\netcoreapp3.1\replaceWithAlphabetPosition.pdb
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\replaceWithAlphabetPosition.csproj.AssemblyReference.cache
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\replaceWithAlphabetPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\replaceWithAlphabetPosition.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\replaceWithAlphabetPosition.AssemblyInfo.cs
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\replaceWithAlphabetPosition.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\replaceWithAlphabetPosition.dll
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\replaceWithAlphabetPosition.pdb
+D:\c#Code\codeWars\problem1\problems\replaceWithAlphabetPosition\obj\Debug\netcoreapp3.1\replaceWithAlphabetPosition.genruntimeconfig.cache

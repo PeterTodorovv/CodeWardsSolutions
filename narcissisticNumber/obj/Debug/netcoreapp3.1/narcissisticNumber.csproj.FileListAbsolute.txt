@@ -1,0 +1,14 @@
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\bin\Debug\netcoreapp3.1\narcissisticNumber.exe
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\bin\Debug\netcoreapp3.1\narcissisticNumber.deps.json
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\bin\Debug\netcoreapp3.1\narcissisticNumber.runtimeconfig.json
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\bin\Debug\netcoreapp3.1\narcissisticNumber.runtimeconfig.dev.json
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\bin\Debug\netcoreapp3.1\narcissisticNumber.dll
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\bin\Debug\netcoreapp3.1\narcissisticNumber.pdb
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\obj\Debug\netcoreapp3.1\narcissisticNumber.csproj.AssemblyReference.cache
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\obj\Debug\netcoreapp3.1\narcissisticNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\obj\Debug\netcoreapp3.1\narcissisticNumber.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\obj\Debug\netcoreapp3.1\narcissisticNumber.AssemblyInfo.cs
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\obj\Debug\netcoreapp3.1\narcissisticNumber.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\obj\Debug\netcoreapp3.1\narcissisticNumber.dll
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\obj\Debug\netcoreapp3.1\narcissisticNumber.pdb
+D:\c#Code\codeWars\problem1\problems\narcissisticNumber\obj\Debug\netcoreapp3.1\narcissisticNumber.genruntimeconfig.cache

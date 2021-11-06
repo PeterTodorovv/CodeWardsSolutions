@@ -1,0 +1,14 @@
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\bin\Debug\netcoreapp3.1\complementaryDNA.exe
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\bin\Debug\netcoreapp3.1\complementaryDNA.deps.json
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\bin\Debug\netcoreapp3.1\complementaryDNA.runtimeconfig.json
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\bin\Debug\netcoreapp3.1\complementaryDNA.runtimeconfig.dev.json
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\bin\Debug\netcoreapp3.1\complementaryDNA.dll
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\bin\Debug\netcoreapp3.1\complementaryDNA.pdb
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\obj\Debug\netcoreapp3.1\complementaryDNA.csproj.AssemblyReference.cache
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\obj\Debug\netcoreapp3.1\complementaryDNA.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\obj\Debug\netcoreapp3.1\complementaryDNA.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\obj\Debug\netcoreapp3.1\complementaryDNA.AssemblyInfo.cs
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\obj\Debug\netcoreapp3.1\complementaryDNA.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\obj\Debug\netcoreapp3.1\complementaryDNA.dll
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\obj\Debug\netcoreapp3.1\complementaryDNA.pdb
+D:\c#Code\codeWars\problem1\problems\complementaryDNA\obj\Debug\netcoreapp3.1\complementaryDNA.genruntimeconfig.cache

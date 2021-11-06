@@ -1,0 +1,13 @@
+D:\c#Code\codeWars\problems\aSquareOfSquares\obj\Debug\netcoreapp3.1\aSquareOfSquares.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\aSquareOfSquares\obj\Debug\netcoreapp3.1\aSquareOfSquares.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\aSquareOfSquares\obj\Debug\netcoreapp3.1\aSquareOfSquares.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\aSquareOfSquares\obj\Debug\netcoreapp3.1\aSquareOfSquares.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\aSquareOfSquares\bin\Debug\netcoreapp3.1\aSquareOfSquares.exe
+D:\c#Code\codeWars\problems\aSquareOfSquares\bin\Debug\netcoreapp3.1\aSquareOfSquares.deps.json
+D:\c#Code\codeWars\problems\aSquareOfSquares\bin\Debug\netcoreapp3.1\aSquareOfSquares.runtimeconfig.json
+D:\c#Code\codeWars\problems\aSquareOfSquares\bin\Debug\netcoreapp3.1\aSquareOfSquares.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\aSquareOfSquares\bin\Debug\netcoreapp3.1\aSquareOfSquares.dll
+D:\c#Code\codeWars\problems\aSquareOfSquares\bin\Debug\netcoreapp3.1\aSquareOfSquares.pdb
+D:\c#Code\codeWars\problems\aSquareOfSquares\obj\Debug\netcoreapp3.1\aSquareOfSquares.dll
+D:\c#Code\codeWars\problems\aSquareOfSquares\obj\Debug\netcoreapp3.1\aSquareOfSquares.pdb
+D:\c#Code\codeWars\problems\aSquareOfSquares\obj\Debug\netcoreapp3.1\aSquareOfSquares.genruntimeconfig.cache

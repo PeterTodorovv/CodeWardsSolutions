@@ -1,0 +1,14 @@
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\bin\Debug\netcoreapp3.1\duplicateEncoder.exe
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\bin\Debug\netcoreapp3.1\duplicateEncoder.deps.json
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\bin\Debug\netcoreapp3.1\duplicateEncoder.runtimeconfig.json
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\bin\Debug\netcoreapp3.1\duplicateEncoder.runtimeconfig.dev.json
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\bin\Debug\netcoreapp3.1\duplicateEncoder.dll
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\bin\Debug\netcoreapp3.1\duplicateEncoder.pdb
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\obj\Debug\netcoreapp3.1\duplicateEncoder.csproj.AssemblyReference.cache
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\obj\Debug\netcoreapp3.1\duplicateEncoder.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\obj\Debug\netcoreapp3.1\duplicateEncoder.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\obj\Debug\netcoreapp3.1\duplicateEncoder.AssemblyInfo.cs
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\obj\Debug\netcoreapp3.1\duplicateEncoder.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\obj\Debug\netcoreapp3.1\duplicateEncoder.dll
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\obj\Debug\netcoreapp3.1\duplicateEncoder.pdb
+D:\c#Code\codeWars\problem1\problems\duplicateEncoder\obj\Debug\netcoreapp3.1\duplicateEncoder.genruntimeconfig.cache

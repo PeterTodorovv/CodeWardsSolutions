@@ -1,0 +1,13 @@
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.exe
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.deps.json
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.runtimeconfig.json
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.dll
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\bin\Debug\netcoreapp3.1\TakeATenMinuteWalk.pdb
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.dll
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.pdb
+D:\c#Code\codeWars\problems\TakeATenMinuteWalk\obj\Debug\netcoreapp3.1\TakeATenMinuteWalk.genruntimeconfig.cache
