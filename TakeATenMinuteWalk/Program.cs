@@ -6,7 +6,7 @@ namespace TakeATenMinuteWalk
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(IsValidWalk(Console.ReadLine().Split()));
+            Console.WriteLine();
         }
 
         public static bool IsValidWalk(string[] walk)
@@ -16,7 +16,7 @@ namespace TakeATenMinuteWalk
             int e = 0;
             int w = 0;
 
-            foreach(string step in walk)
+            foreach (string step in walk)
             {
                 if (step == "n") n++;
                 else if (step == "s") s++;

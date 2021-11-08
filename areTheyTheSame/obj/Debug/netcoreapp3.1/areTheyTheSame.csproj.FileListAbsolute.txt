@@ -1,0 +1,14 @@
+D:\c#Code\codeWars\problems\areTheyTheSame\bin\Debug\netcoreapp3.1\areTheyTheSame.exe
+D:\c#Code\codeWars\problems\areTheyTheSame\bin\Debug\netcoreapp3.1\areTheyTheSame.deps.json
+D:\c#Code\codeWars\problems\areTheyTheSame\bin\Debug\netcoreapp3.1\areTheyTheSame.runtimeconfig.json
+D:\c#Code\codeWars\problems\areTheyTheSame\bin\Debug\netcoreapp3.1\areTheyTheSame.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\areTheyTheSame\bin\Debug\netcoreapp3.1\areTheyTheSame.dll
+D:\c#Code\codeWars\problems\areTheyTheSame\bin\Debug\netcoreapp3.1\areTheyTheSame.pdb
+D:\c#Code\codeWars\problems\areTheyTheSame\obj\Debug\netcoreapp3.1\areTheyTheSame.csproj.AssemblyReference.cache
+D:\c#Code\codeWars\problems\areTheyTheSame\obj\Debug\netcoreapp3.1\areTheyTheSame.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\areTheyTheSame\obj\Debug\netcoreapp3.1\areTheyTheSame.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\areTheyTheSame\obj\Debug\netcoreapp3.1\areTheyTheSame.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\areTheyTheSame\obj\Debug\netcoreapp3.1\areTheyTheSame.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\areTheyTheSame\obj\Debug\netcoreapp3.1\areTheyTheSame.dll
+D:\c#Code\codeWars\problems\areTheyTheSame\obj\Debug\netcoreapp3.1\areTheyTheSame.pdb
+D:\c#Code\codeWars\problems\areTheyTheSame\obj\Debug\netcoreapp3.1\areTheyTheSame.genruntimeconfig.cache

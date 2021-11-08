@@ -1,0 +1,13 @@
+D:\c#Code\codeWars\problems\ConsoleApp1\bin\Debug\netcoreapp3.1\ExesАndOhs.exe
+D:\c#Code\codeWars\problems\ConsoleApp1\bin\Debug\netcoreapp3.1\ExesАndOhs.deps.json
+D:\c#Code\codeWars\problems\ConsoleApp1\bin\Debug\netcoreapp3.1\ExesАndOhs.runtimeconfig.json
+D:\c#Code\codeWars\problems\ConsoleApp1\bin\Debug\netcoreapp3.1\ExesАndOhs.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\ConsoleApp1\bin\Debug\netcoreapp3.1\ExesАndOhs.dll
+D:\c#Code\codeWars\problems\ConsoleApp1\bin\Debug\netcoreapp3.1\ExesАndOhs.pdb
+D:\c#Code\codeWars\problems\ConsoleApp1\obj\Debug\netcoreapp3.1\ExesАndOhs.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\ConsoleApp1\obj\Debug\netcoreapp3.1\ExesАndOhs.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\ConsoleApp1\obj\Debug\netcoreapp3.1\ExesАndOhs.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\ConsoleApp1\obj\Debug\netcoreapp3.1\ExesАndOhs.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\ConsoleApp1\obj\Debug\netcoreapp3.1\ExesАndOhs.dll
+D:\c#Code\codeWars\problems\ConsoleApp1\obj\Debug\netcoreapp3.1\ExesАndOhs.pdb
+D:\c#Code\codeWars\problems\ConsoleApp1\obj\Debug\netcoreapp3.1\ExesАndOhs.genruntimeconfig.cache
