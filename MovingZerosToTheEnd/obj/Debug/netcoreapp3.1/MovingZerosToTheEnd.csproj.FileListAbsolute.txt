@@ -1,0 +1,13 @@
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.exe
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.deps.json
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.runtimeconfig.json
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.dll
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\bin\Debug\netcoreapp3.1\MovingZerosToTheEnd.pdb
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.dll
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.pdb
+D:\c#Code\codeWars\problems\MovingZerosToTheEnd\obj\Debug\netcoreapp3.1\MovingZerosToTheEnd.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\c#Code\codeWars\problems\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.exe
+D:\c#Code\codeWars\problems\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.deps.json
+D:\c#Code\codeWars\problems\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.runtimeconfig.json
+D:\c#Code\codeWars\problems\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.dll
+D:\c#Code\codeWars\problems\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.pdb
+D:\c#Code\codeWars\problems\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.dll
+D:\c#Code\codeWars\problems\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.pdb
+D:\c#Code\codeWars\problems\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.genruntimeconfig.cache

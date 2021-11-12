@@ -1,0 +1,14 @@
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\bin\Debug\netcoreapp3.1\EqualSidesOfAnArray.exe
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\bin\Debug\netcoreapp3.1\EqualSidesOfAnArray.deps.json
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\bin\Debug\netcoreapp3.1\EqualSidesOfAnArray.runtimeconfig.json
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\bin\Debug\netcoreapp3.1\EqualSidesOfAnArray.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\bin\Debug\netcoreapp3.1\EqualSidesOfAnArray.dll
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\bin\Debug\netcoreapp3.1\EqualSidesOfAnArray.pdb
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\obj\Debug\netcoreapp3.1\EqualSidesOfAnArray.csproj.AssemblyReference.cache
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\obj\Debug\netcoreapp3.1\EqualSidesOfAnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\obj\Debug\netcoreapp3.1\EqualSidesOfAnArray.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\obj\Debug\netcoreapp3.1\EqualSidesOfAnArray.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\obj\Debug\netcoreapp3.1\EqualSidesOfAnArray.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\obj\Debug\netcoreapp3.1\EqualSidesOfAnArray.dll
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\obj\Debug\netcoreapp3.1\EqualSidesOfAnArray.pdb
+D:\c#Code\codeWars\problems\EqualSidesOfAnArray\obj\Debug\netcoreapp3.1\EqualSidesOfAnArray.genruntimeconfig.cache

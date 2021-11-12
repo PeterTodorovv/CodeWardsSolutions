@@ -1,0 +1,13 @@
+D:\c#Code\codeWars\problems\TribonacciSequence\bin\Debug\netcoreapp3.1\TribonacciSequence.exe
+D:\c#Code\codeWars\problems\TribonacciSequence\bin\Debug\netcoreapp3.1\TribonacciSequence.deps.json
+D:\c#Code\codeWars\problems\TribonacciSequence\bin\Debug\netcoreapp3.1\TribonacciSequence.runtimeconfig.json
+D:\c#Code\codeWars\problems\TribonacciSequence\bin\Debug\netcoreapp3.1\TribonacciSequence.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\TribonacciSequence\bin\Debug\netcoreapp3.1\TribonacciSequence.dll
+D:\c#Code\codeWars\problems\TribonacciSequence\bin\Debug\netcoreapp3.1\TribonacciSequence.pdb
+D:\c#Code\codeWars\problems\TribonacciSequence\obj\Debug\netcoreapp3.1\TribonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\TribonacciSequence\obj\Debug\netcoreapp3.1\TribonacciSequence.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\TribonacciSequence\obj\Debug\netcoreapp3.1\TribonacciSequence.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\TribonacciSequence\obj\Debug\netcoreapp3.1\TribonacciSequence.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\TribonacciSequence\obj\Debug\netcoreapp3.1\TribonacciSequence.dll
+D:\c#Code\codeWars\problems\TribonacciSequence\obj\Debug\netcoreapp3.1\TribonacciSequence.pdb
+D:\c#Code\codeWars\problems\TribonacciSequence\obj\Debug\netcoreapp3.1\TribonacciSequence.genruntimeconfig.cache

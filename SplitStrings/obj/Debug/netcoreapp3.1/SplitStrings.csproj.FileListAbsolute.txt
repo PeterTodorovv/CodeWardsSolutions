@@ -1,0 +1,13 @@
+D:\c#Code\codeWars\problems\SplitStrings\bin\Debug\netcoreapp3.1\SplitStrings.exe
+D:\c#Code\codeWars\problems\SplitStrings\bin\Debug\netcoreapp3.1\SplitStrings.deps.json
+D:\c#Code\codeWars\problems\SplitStrings\bin\Debug\netcoreapp3.1\SplitStrings.runtimeconfig.json
+D:\c#Code\codeWars\problems\SplitStrings\bin\Debug\netcoreapp3.1\SplitStrings.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\SplitStrings\bin\Debug\netcoreapp3.1\SplitStrings.dll
+D:\c#Code\codeWars\problems\SplitStrings\bin\Debug\netcoreapp3.1\SplitStrings.pdb
+D:\c#Code\codeWars\problems\SplitStrings\obj\Debug\netcoreapp3.1\SplitStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\SplitStrings\obj\Debug\netcoreapp3.1\SplitStrings.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\SplitStrings\obj\Debug\netcoreapp3.1\SplitStrings.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\SplitStrings\obj\Debug\netcoreapp3.1\SplitStrings.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\SplitStrings\obj\Debug\netcoreapp3.1\SplitStrings.dll
+D:\c#Code\codeWars\problems\SplitStrings\obj\Debug\netcoreapp3.1\SplitStrings.pdb
+D:\c#Code\codeWars\problems\SplitStrings\obj\Debug\netcoreapp3.1\SplitStrings.genruntimeconfig.cache
