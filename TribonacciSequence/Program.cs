@@ -7,7 +7,7 @@ namespace TribonacciSequence
         static void Main(string[] args)
         {
             double[] nums = {14, 11, 14};
-            Console.WriteLine(string.Join(" ", Tribonacci(nums, 2)));
+            Console.WriteLine(string.Join(' ', Tribonacci(nums, 2)));
         }
 
         public static double[] Tribonacci(double[] signature, int n)
