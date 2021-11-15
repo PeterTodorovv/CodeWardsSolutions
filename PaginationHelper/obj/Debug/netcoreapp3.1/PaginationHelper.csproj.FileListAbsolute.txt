@@ -1,0 +1,14 @@
+D:\c#Code\codeWars\problems\PaginationHelper\obj\Debug\netcoreapp3.1\PaginationHelper.csproj.AssemblyReference.cache
+D:\c#Code\codeWars\problems\PaginationHelper\obj\Debug\netcoreapp3.1\PaginationHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\codeWars\problems\PaginationHelper\obj\Debug\netcoreapp3.1\PaginationHelper.AssemblyInfoInputs.cache
+D:\c#Code\codeWars\problems\PaginationHelper\obj\Debug\netcoreapp3.1\PaginationHelper.AssemblyInfo.cs
+D:\c#Code\codeWars\problems\PaginationHelper\obj\Debug\netcoreapp3.1\PaginationHelper.csproj.CoreCompileInputs.cache
+D:\c#Code\codeWars\problems\PaginationHelper\bin\Debug\netcoreapp3.1\PaginationHelper.exe
+D:\c#Code\codeWars\problems\PaginationHelper\bin\Debug\netcoreapp3.1\PaginationHelper.deps.json
+D:\c#Code\codeWars\problems\PaginationHelper\bin\Debug\netcoreapp3.1\PaginationHelper.runtimeconfig.json
+D:\c#Code\codeWars\problems\PaginationHelper\bin\Debug\netcoreapp3.1\PaginationHelper.runtimeconfig.dev.json
+D:\c#Code\codeWars\problems\PaginationHelper\bin\Debug\netcoreapp3.1\PaginationHelper.dll
+D:\c#Code\codeWars\problems\PaginationHelper\bin\Debug\netcoreapp3.1\PaginationHelper.pdb
+D:\c#Code\codeWars\problems\PaginationHelper\obj\Debug\netcoreapp3.1\PaginationHelper.dll
+D:\c#Code\codeWars\problems\PaginationHelper\obj\Debug\netcoreapp3.1\PaginationHelper.pdb
+D:\c#Code\codeWars\problems\PaginationHelper\obj\Debug\netcoreapp3.1\PaginationHelper.genruntimeconfig.cache
